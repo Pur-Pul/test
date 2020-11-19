@@ -3,4 +3,8 @@ milk
 eggs
 sugar
 honey
+<<<<<<< Updated upstream
 pepper
+=======
+hello
+>>>>>>> Stashed changes
